@@ -19,7 +19,7 @@ int main()
     float area = 3.415926 * radius * radius;
 
     // TASK(b) - Use printf to display the value of the variable area. Look at the lecture slides and find out how to limit this to 3 decimal places
-    // Write solution here - printf("%f\n", area)
+    // Write solution here
     
     //
 
@@ -29,7 +29,7 @@ int main()
     printf("p=%d, q=%d\n", p, q);
 
     // TASK(c) - using printf, display the radius and the area using a single printf statement
-    // Write solution here - printf("radius=%f, area=%f\n", radius, area);
+    // Write solution here
 
     //
 }
