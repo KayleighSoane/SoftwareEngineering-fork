@@ -36,6 +36,15 @@ int main()
     x = x / 0.0;      //Error!!!!????
     printf("x = %f\n", x);
 
+	//kayl's notes: x = inf - intinity.
+    x = x + 1;
+    printf("x = %f\n", x);
+	//kayl's notes: infinity + 1 = infinity
+
+    x = 0.0;
+    x = x / 0.0;
+    printf("x = %f\n", x);
+
 }
 
 
