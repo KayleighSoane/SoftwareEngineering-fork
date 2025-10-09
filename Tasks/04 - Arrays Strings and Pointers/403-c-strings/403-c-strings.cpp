@@ -40,7 +40,7 @@ int main()
     }
 
     //Comparing array content - part 1
-    int diff = (int)strncmp(moduleName, anotherModule, (int)sizeof(moduleName)-1);
+    int diff = (int)strncmp(moduleName, anotherModule, (int)sizeof(moduleName)-1); // compares lengths of both strings (number of characters)
     if ( diff == 0)
     {
         printf("%s is the same as %s\n", moduleName, anotherModule);

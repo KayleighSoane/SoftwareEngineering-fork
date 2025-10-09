@@ -44,14 +44,20 @@ int main()
 
     //Write task 1 solution here
     int64_t sum = 0L;   //Result needs to be bigger than int to avoid overflow
-
+    for (unsigned int n = 0; n < N; n++) {
+		sum += nums[n];
+	}
+	cout << "The sum of all elements in the array nums is " << sum << endl;
 
     // ***********************************************************************************************************************
     // TASK 2 - calculate the mean of all elements (this will be a fractional value) and display to 1 decimal place accuracy *
     // ***********************************************************************************************************************
 
     //Write task 2 solution here
-
+	cout << "The mean of all the elements is equal to the sum divided by the number of elements" << endl;
+	float mean = (float)sum / (float)N;
+    cout.precision(1);
+	cout << "Mean = " << fixed << mean << endl;
 }
 
 

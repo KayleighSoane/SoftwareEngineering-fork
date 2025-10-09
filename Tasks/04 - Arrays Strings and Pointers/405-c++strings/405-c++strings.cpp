@@ -43,7 +43,7 @@ int main()
         cout << "moduleName and anotherModule have the same content!" << endl;
     }
     else {
-        cout << "moduleName and anotherModule have different same content!" << endl;
+        cout << "moduleName and anotherModule have different content!" << endl;
     }
 
     //Modify anotherModule to be all upper case

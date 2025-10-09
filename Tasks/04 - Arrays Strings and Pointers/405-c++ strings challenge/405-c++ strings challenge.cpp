@@ -20,6 +20,10 @@ int main()
     cout << input << endl;
 
     //Write solution here
+    size_t locstart = input.find("42"); //finds beginning of 42
+    size_t locend = 2;
+    string value = input.substr(locstart, locend); //pulls out 42
+    cout << "Numerical Value in string \"input\" is: " << value << endl;
 
 
 
@@ -28,9 +32,26 @@ int main()
     getline(std::cin, input);   //Read a line (users types this in)
     istringstream iss(input);   //Create a string "stream" (sequence of words)
     string word;                //This will hold the next word
+    static int count = 0;
     while (iss >> word) {       //Read the next word (if there is one)
         cout << word << endl;   //Output each word in turn
+        if (word == "the" || word == "The") {
+            count++;
+        }
     }
+    cout << "The word 'the' appears " << count << " times." << endl;
+    
 
+
+
+	int challengearray[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+	int reversearray[10];
+	for (int i = 0; i < 10; i++) {
+		reversearray[i] = challengearray[9 - i];
+		cout << reversearray[i] << " ";
+	}
+
+
+    return 0;
 }
 

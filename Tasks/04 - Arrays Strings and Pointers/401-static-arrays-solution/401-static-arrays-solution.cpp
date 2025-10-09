@@ -55,7 +55,7 @@ int main()
     // ***********************************************************************************************************************
 
     //Write task 2 solution here
-    float mean = (float)sum / (float)N;
+    float mean = sum / N;
     
 
     //Write to display - C version

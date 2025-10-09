@@ -40,8 +40,6 @@ int absDiff(int u, int v)
 {
     // create variables to hold the reslts of the calculation
     int diff = 0;
-
-    // Calculate the difference
     if (u >= v)               // check which variable is larger - also this covers the case where they are the same
     {
         diff = sub(u, v);     // do the subtraction
