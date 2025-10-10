@@ -43,7 +43,7 @@ int main()
     
 
 
-
+	// Challenge 3a - Reverse an array
 	int challengearray[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 	int reversearray[10];
 	for (int i = 0; i < 10; i++) {
@@ -51,6 +51,20 @@ int main()
 		cout << reversearray[i] << " ";
 	}
 
+    cout << endl; 
+      
+    int twoarray[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    // Challenge 3b - In-place reversal
+    int n = sizeof(twoarray) / sizeof(twoarray[0]);
+    for (int i = 0; i < n / 2; i++) {
+        int temp = twoarray[i];
+        twoarray[i] = twoarray[n - 1 - i];
+        twoarray[n - 1 - i] = temp;
+    }
+    for (int i = 0; i < n; i++) {
+        cout << twoarray[i] << " ";
+    }
+    cout << endl;
 
     return 0;
 }
