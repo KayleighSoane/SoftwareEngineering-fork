@@ -38,7 +38,7 @@ int absDiff(int u, int v)
     } 
     else 
     {
-        diff = sub(u, v);     // do the subtraction
+        diff = sub(v, u);     // do the subtraction
     }
 
 	return diff;
