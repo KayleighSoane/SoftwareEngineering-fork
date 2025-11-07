@@ -6,6 +6,9 @@ int main()
 {
 
     // (i) Open for read with ifstream
+    ofstream outputStream;
+    outputStream.open("myfile.txt");
+
     string fn = "myfile.txt";
     ifstream inputStream;
     inputStream.open(fn);
