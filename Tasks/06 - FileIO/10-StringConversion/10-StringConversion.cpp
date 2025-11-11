@@ -44,9 +44,16 @@ int main()
         //Look for the string that comes before the module code
         if (nextWord == "ID:") {
             cout << "Found \"ID:\". The code should be next...." << endl;
-            //TODO:
-            // Read the next word
-            // If successful, try to convert to an integer then break from the while loop
+            iss >> nextWord; 
+            cout << nextWord << endl;
+        //TODO:
+        // Read the next word
+        // If successful, try to convert to an integer then break from the while loop
+            if (!iss.fail()) {                
+			    int code = stoi(nextWord); // Convert to integer
+			    cout << "COMP" << code + 1 << endl;
+                break;
+		    }
         }
     }
 

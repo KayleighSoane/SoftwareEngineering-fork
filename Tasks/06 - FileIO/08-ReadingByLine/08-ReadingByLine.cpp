@@ -48,11 +48,12 @@ int main()
 
     // Use a loop to read all remaining lines
     // Hint - `inputStream.eof()` to check if the end of file character was read
-
-
-
-
-
+    do {
+        getline(inputStream, nextLine);
+        if (!inputStream.fail()) {
+			allLines = allLines + nextLine + "\n"; //Only adds if a line was read - if an error happens, we would be able to tell because it wouldn't add.
+        }
+	} while (!inputStream.eof());   //Loop condition is if we have NOT reached the end of the file
 
 
     // End of solution

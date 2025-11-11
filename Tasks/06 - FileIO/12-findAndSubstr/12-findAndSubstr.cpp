@@ -64,8 +64,23 @@ int main()
         return -1;
     }
 
+    int area = dataString.find("Area:");
+    if (area == -1) {
+        cerr << "\"Area:\" not found" << endl;
+        return -1;
+	}
+	string after = dataString.substr(area);
+    istringstream i(after);
+	i >> strTag >> strCode;
+    if (i.fail()) {
+        cerr << "Err - istringstream failed" << endl;
+        return -1;
+	}
+	cout << strTag << " " << strCode << endl;
+
+
     // Done
-    cout << "All is well!" << endl;
+    cout << "Nothing failed" << endl;
     return 0;
 }
 
@@ -85,6 +100,7 @@ void createFile(string fn)
     outputStream << "Subject Area: " << "COMP" << endl;
     //We've switched to back to regular numerals - as discussed by the water cooler
     outputStream << "Module ID: " << "1000" << endl;
+	
 
     // (iii) Close
     outputStream.close();
