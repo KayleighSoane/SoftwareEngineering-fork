@@ -17,7 +17,7 @@ public:
     //Constructor - always called when a new object is created
     Rect(float w, float h) {
         this->width = w;        //We can use the this pointer
-        height = h;             //Or infer it
+		height = h;             //Or infer it (can use width=w too)
         updateArea();
     }
 
@@ -28,6 +28,13 @@ public:
             updateArea();
         }
     }
+
+    void setWidth(float w) {
+        if (width != w) {
+            width = w;
+            updateArea();
+        }
+	}
 
     //Getter
     double getArea() {
