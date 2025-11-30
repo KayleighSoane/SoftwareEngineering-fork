@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="24-Challenge3-YearRecord.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Record.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
