@@ -23,6 +23,21 @@ public:
         }
     }
 
+    void setAge(int newAge) {
+        //update age but only if it is between 0 and 30
+        if (newAge >= 0 && newAge <= 30) {
+			_age = newAge;
+			cout << "Age of " << _name << " set to " << _age << endl;
+        }
+        else {
+            cout << "Invalid age " << newAge << " for pet " << _name << endl;
+        }
+    }
+
+    int getAge() {
+        return _age;
+	}
+
     string getName() {
         //Read only copy returned as = does a copy for string
         return _name;
@@ -67,4 +82,5 @@ int main()
     Pet p1("Carrot", 2);
     Dog d1("Scrapper", 5);
     Cat c1("Furry", 3);
+    c1.setAge(20);
 }
