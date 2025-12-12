@@ -21,5 +21,7 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+    void onButtonClicked(bool b);
+    void onbutton2clicked(bool b);
 };
 #endif // MAINWINDOW_H

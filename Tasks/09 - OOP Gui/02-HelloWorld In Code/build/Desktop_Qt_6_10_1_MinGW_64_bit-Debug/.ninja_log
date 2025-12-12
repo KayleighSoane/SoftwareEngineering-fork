@@ -1,0 +1,41 @@
+# ninja log v6
+11	965	7872571882136970	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+11	965	7872571882136970	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+11	965	7872571882136970	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+11	965	7872571882136970	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+1009	3397	7872571883821115	CMakeFiles/01-HelloWorld.dir/01-HelloWorld_autogen/mocs_compilation.cpp.obj	712a88be3acbb6a3
+1017	3428	7872571883889199	CMakeFiles/01-HelloWorld.dir/main.cpp.obj	73ba8e229b2f4f4b
+68	426	7872572058970141	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+68	426	7872572058970141	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+68	426	7872572058970141	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+68	426	7872572058970141	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+428	2673	7872572062565151	CMakeFiles/01-HelloWorld.dir/mainwindow.cpp.obj	a0215d0a8d623420
+2673	2882	7872572085018945	01-HelloWorld.exe	c946b4dc4462f8c7
+57	789	7872575893634527	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+57	789	7872575893634527	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+57	789	7872575893634527	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+57	789	7872575893634527	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+792	3033	7872575894929471	CMakeFiles/01-HelloWorld.dir/01-HelloWorld_autogen/mocs_compilation.cpp.obj	712a88be3acbb6a3
+799	3136	7872575894999449	CMakeFiles/01-HelloWorld.dir/main.cpp.obj	73ba8e229b2f4f4b
+808	3206	7872575895080827	CMakeFiles/01-HelloWorld.dir/mainwindow.cpp.obj	a0215d0a8d623420
+3206	3412	7872575919079512	01-HelloWorld.exe	c946b4dc4462f8c7
+62	865	7872579056133556	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+62	865	7872579056133556	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+62	865	7872579056133556	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+62	865	7872579056133556	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+867	3184	7872579057326594	CMakeFiles/01-HelloWorld.dir/01-HelloWorld_autogen/mocs_compilation.cpp.obj	712a88be3acbb6a3
+876	3190	7872579057385873	CMakeFiles/01-HelloWorld.dir/main.cpp.obj	73ba8e229b2f4f4b
+49	272	7872579144162280	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+49	272	7872579144162280	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+49	272	7872579144162280	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+49	272	7872579144162280	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+14	242	7872579262904057	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+14	242	7872579262904057	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+14	242	7872579262904057	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+14	242	7872579262904057	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+74	493	7872580043749625	01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+74	493	7872580043749625	01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+74	493	7872580043749625	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	abd1e3600d1c3b23
+74	493	7872580043749625	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/02-HelloWorld In Code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	abd1e3600d1c3b23
+498	2787	7872580047993266	CMakeFiles/01-HelloWorld.dir/mainwindow.cpp.obj	a0215d0a8d623420
+2787	2986	7872580070886840	01-HelloWorld.exe	c946b4dc4462f8c7

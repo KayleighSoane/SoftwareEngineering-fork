@@ -1,0 +1,15 @@
+# ninja log v6
+16	1288	7872486219203175	01-HelloWorld_autogen/timestamp	2eb497e7bfc74145
+16	1288	7872486219203175	01-HelloWorld_autogen/mocs_compilation.cpp	2eb497e7bfc74145
+16	1288	7872486219203175	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	2eb497e7bfc74145
+16	1288	7872486219203175	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	2eb497e7bfc74145
+1346	3479	7872486221396019	CMakeFiles/01-HelloWorld.dir/01-HelloWorld_autogen/mocs_compilation.cpp.obj	ad92053b0beb9c0b
+1359	3496	7872486221526633	CMakeFiles/01-HelloWorld.dir/main.cpp.obj	a7290ceaf3b6fc31
+1370	3614	7872486221603158	CMakeFiles/01-HelloWorld.dir/mainwindow.cpp.obj	7fb276b91df1d012
+3615	3827	7872486244092837	01-HelloWorld.exe	c946b4dc4462f8c7
+22	457	7872489185771711	01-HelloWorld_autogen/timestamp	2eb497e7bfc74145
+22	457	7872489185771711	01-HelloWorld_autogen/mocs_compilation.cpp	2eb497e7bfc74145
+22	457	7872489185771711	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/timestamp	2eb497e7bfc74145
+22	457	7872489185771711	C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/01-HelloWorld_autogen/mocs_compilation.cpp	2eb497e7bfc74145
+460	3206	7872489190143845	CMakeFiles/01-HelloWorld.dir/mainwindow.cpp.obj	7fb276b91df1d012
+3206	3387	7872489217496717	01-HelloWorld.exe	c946b4dc4462f8c7

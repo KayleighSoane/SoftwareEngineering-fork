@@ -1,0 +1,9 @@
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/01-HelloWorld.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/01-HelloWorld_autogen_timestamp_deps.dir
+C:/Users/kayle/OneDrive - University of Plymouth/Github Repositories/SoftwareEngineering-fork/Tasks/09 - OOP Gui/01-HelloWorld/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/01-HelloWorld_autogen.dir
